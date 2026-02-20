@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Build Your Own AI News Agent to Stay Ahead (No Code Required)
+This is the repository for the LinkedIn Learning course `Build Your Own AI News Agent to Stay Ahead (No Code Required)`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
