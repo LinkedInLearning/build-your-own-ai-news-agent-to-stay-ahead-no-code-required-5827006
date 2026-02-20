@@ -1,7 +1,7 @@
-Build Your Own AI News Agent to Stay Ahead (No Code Required)
+### Build Your Own AI News Agent to Stay Ahead (No Code Required)
 Nitin Aggarwal
 
-AI Agent Prompts
+## AI Agent Prompts
 
 News Collector Agent Instructions Prompt
 
